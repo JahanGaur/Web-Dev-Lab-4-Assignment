@@ -10,8 +10,10 @@ This repository contains the code for the Web Development **Lab 4 Assignment**. 
 ## 🚀 Getting Started
 
 ### 1️⃣ Clone the Repository
-```bash```
+```bash
 git clone https://github.com/JahanGaur/Web-Dev-Lab-4-Assignment.git
+cd Web-Dev-Lab-4-Assignment
+```
 
 ### 2️⃣ How to use
 
